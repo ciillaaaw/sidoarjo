@@ -1,0 +1,30 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: rgb(252, 139, 248);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(232, 113, 236);
+    text-align: center;
+}
+
+h3 {
+    color: rgb(255, 133, 204);
+    text-align: center;
+}
+
+p {
+    color: rgb(246, 174, 246);
+    text-align: center;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
